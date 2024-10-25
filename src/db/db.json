@@ -1,1 +1,44 @@
-[]
+[
+  {
+    "id": "98626b8e-88b6-4a7e-b533-f8621871471e",
+    "name": "Bernard Bartell Jr.",
+    "phone": "(427) 708-7301 x9184",
+    "email": "Maia38@hotmail.com",
+    "job": "Principal Applications Planner"
+  },
+  {
+    "id": "ac5ef746-7205-4b05-9adc-36f3a1dcacee",
+    "name": "Tyrone Sipes",
+    "phone": "366-457-1294 x48552",
+    "email": "Estevan_Bode@hotmail.com",
+    "job": "Product Directives Coordinator"
+  },
+  {
+    "id": "60c678b8-9ffa-4c7a-905a-78a638eef335",
+    "name": "Penny Fay",
+    "phone": "1-600-720-2538 x3803",
+    "email": "Rory_Kirlin65@hotmail.com",
+    "job": "Human Identity Designer"
+  },
+  {
+    "id": "b67135d2-2954-4085-84d9-cab58bc1d3ec",
+    "name": "Gregg Fisher",
+    "phone": "1-701-450-7125 x0315",
+    "email": "Esta.Ernser33@gmail.com",
+    "job": "National Factors Producer"
+  },
+  {
+    "id": "e8a15990-19a6-4080-9ec5-8248af13e6cb",
+    "name": "Virgil Schinner",
+    "phone": "(452) 756-4642",
+    "email": "Nakia.White@yahoo.com",
+    "job": "Senior Security Associate"
+  },
+  {
+    "id": "d2a5e869-cf3d-4369-9b40-708b53bb55ca",
+    "name": "Miss Katie Willms",
+    "phone": "544-531-1648 x6085",
+    "email": "Clementine_Wisozk@gmail.com",
+    "job": "Forward Quality Strategist"
+  }
+]
